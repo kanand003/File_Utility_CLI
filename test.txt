@@ -1,0 +1,6 @@
+This is a test file for our File Utility CLI.
+We'll use this file to test the copy command.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nullam hendrerit justo at lorem fringilla, at tincidunt nunc vehicula.
+Sed euismod eros vel magna sollicitudin, id fermentum dui finibus. 
